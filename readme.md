@@ -4,7 +4,7 @@
 
 ![Image Title](https://github.com/mohnishlandge/webgl-assets/blob/main/Screenshot%20(159).png)
 
-[Youtube Setup Video](https://tympanus.net/codrops/?p=)
+[Youtube Setup Video](https://youtu.be/MmjZG-UX30g)
 
 [Demo](https://threejs-template.netlify.app/)
 
@@ -43,9 +43,9 @@ yarn build
 
 Follow *@iviixio*: [Twitter](https://twitter.com/iviixio), [Instagram](https://www.instagram.com/iviixio/)
 
-Youtube Video: [Twitter](http://www.twitter.com/codrops)
+Youtube Video: [Twitter](https://youtu.be/MmjZG-UX30g)
 
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart: by [Mohnish Landge](http://www.codrops.com)
+Made with :blue_heart: by [Mohnish Landge](http://mohnishlandge.me)
