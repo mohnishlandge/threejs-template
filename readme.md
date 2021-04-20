@@ -6,7 +6,7 @@
 
 [Youtube Setup Video](https://tympanus.net/codrops/?p=)
 
-[Demo](https://tympanus.net/codrops/2020/06/02/kinetic-typography-with-three-js/)
+[Demo](https://threejs-template.netlify.app/)
 
 
 ## Installation
