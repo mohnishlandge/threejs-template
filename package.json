@@ -1,7 +1,7 @@
 {
-  "name": "webpack-three-js-template",
+  "name": "threejs-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "*Get started with Three.js to render 3d Web Experience*",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mohnishlandge/threejs-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohnish Landge",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mohnishlandge/threejs-template/issues"
