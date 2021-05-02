@@ -1,5 +1,5 @@
 {
-  "name": "threejs-boilerplate",
+  "name": "threejs-starter",
   "version": "1.0.0",
   "description": "*Get started with Three.js to render 3d Web Experience*",
   "main": "index.js",
